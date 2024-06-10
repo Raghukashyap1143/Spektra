@@ -2,7 +2,7 @@
     {
       "Name": "How to Design a Lab Guide",
       "Language": "English",
-        "BaseURL": "https://github.com/Raghukashyap1143/Spektra/tree/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K",
+      "BaseURL": "https://github.com/Raghukashyap1143/Spektra/tree/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K",
       "Files": [
 
         {
@@ -18,18 +18,18 @@
              
         },
         {
-            "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K/3rd_Page_Create%20AWSdatabasemigration.md",
+            "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K/3rd_Page_Create%20AWSdatabasemigeration.md",
             "Order": 3 
             
              
         },
         { 
-            "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K/4th_Page_Create%20AWSdatabasemigration.md",
+            "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K/4th_page_Create%20AWSdatabasemigration.md",
             "Order": 4
           
         },
         {
-            "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K/5th_Page_Create%20AWSdatabasemigration.md",
+            "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K/5th_page_Create%20AWSdatabasemigration.md",
             "Order": 5,
             "UnlockingRules": [
                 {
@@ -40,7 +40,7 @@
               ]    
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K/6th_Page_Create%20AWSdatabasemigration.md",
+          "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K/6th_page_Create%20AWSdatabasemigration.md",
           "Order": 6,
           "UnlockingRules": [
            {
