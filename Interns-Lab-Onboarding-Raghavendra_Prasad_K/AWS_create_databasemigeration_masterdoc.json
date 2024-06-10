@@ -15,11 +15,25 @@
       },
       {
         "RawFilePath": "https://github.com/arpithaCS5/Interns-Lab-Onboarding/blob/Raghavendra_Prasad_K/3rd_Page_Create%20AWSdatabasemigeration.md",
-        "Order": 3
+        "Order": 3,
+        "UnlockingRules": [
+          {
+            "UnlockDependency": "Questions",
+            "DependentQuestions": [ "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Inlinequestion/Question1.md", "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Inlinequestion/Question1.md" ],
+            "UnlockCriteria": "Answered"
+          }
+        ]
       },
       {
         "RawFilePath": "https://github.com/arpithaCS5/Interns-Lab-Onboarding/blob/Raghavendra_Prasad_K/4th_page_Create%20AWSdatabasemigration.md",
-        "Order": 4
+        "Order": 4,
+        "UnlockingRules": [
+          {
+            "UnlockDependency": "Questions",
+            "DependentQuestions": [ "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Inlinequestion/Question3.md" ],
+            "UnlockCriteria": "Answered"
+          }
+        ]
       },
       {
         "RawFilePath": "https://github.com/arpithaCS5/Interns-Lab-Onboarding/blob/Raghavendra_Prasad_K/5th_page_Create%20AWSdatabasemigration.md",
