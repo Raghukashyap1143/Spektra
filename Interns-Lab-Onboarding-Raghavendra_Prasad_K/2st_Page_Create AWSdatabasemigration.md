@@ -17,5 +17,8 @@ Alternatively, you can also find these values on the CloudLabs Environment tab.
 + eu-central-1 (Frankfurt)
 + eu-west-2 (London)
 + ap-southeast-1 (Singapore)
-
+<question source="https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Inlinequestion/Question1.md"
+/>
+<question source="https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Inlinequestion/Question2.md"
+/>
 
