@@ -4,7 +4,7 @@ Question Type : Single Choice
 ## Question
 Which of the following is a primary use case for AWS Database Migration Service (DMS)?:
 ## Options
-Option 1: . To automatically back up AWS EC2 instances.
+Option 1: To automatically back up AWS EC2 instances.
 
 Option 2: To migrate databases from on-premises to AWS, between AWS regions, or between different database engines.
 
