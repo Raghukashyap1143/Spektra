@@ -21,7 +21,7 @@ Alternatively, you can also find these values on the CloudLabs Environment tab.
 Please answer the following QUESIONS:
 
 
-<question source="https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Inlinequestion/Question1.md" />
+<question source="https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K/Question1.md" />
 
-<question source="https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Inlinequestion/Question2.md" />
+<question source="https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K/Question2.md" />
 
