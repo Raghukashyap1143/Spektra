@@ -43,10 +43,13 @@
           "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K/6th_Page_Create%20AWSdatabasemigration.md",
           "Order": 6,
           "UnlockingRules": [
-          {
-                  "UnlockDependency": "Questions",
-                  "DependentQuestions": [ "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K/Question1.md", "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K/Question2.md" ],
-                  "UnlockCriteria": "AnsweredCorrectly"
+           {
+            "UnlockDependency": "Validations",
+            "UnlockCriteria": "Execution",
+            "DependentValidations": [
+              "b50f905d-3791-4481-a0a1-b3844f5a8eab"
+              
+            ]
           }
         ]
         }
