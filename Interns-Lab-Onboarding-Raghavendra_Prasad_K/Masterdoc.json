@@ -1,0 +1,56 @@
+[
+    {
+      "Name": "How to Design a Lab Guide",
+      "Language": "English",
+        "BaseURL": "https://github.com/Raghukashyap1143/Spektra/tree/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K",
+      "Files": [
+
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K/AWSdatabasemigration.md",
+            "Order": 1
+             
+        },
+
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K/2st_Page_Create%20AWSdatabasemigration.md",
+            "Order": 2
+              
+             
+        },
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K/3rd_Page_Create%20AWSdatabasemigration.md",
+            "Order": 3 
+            
+             
+        },
+        { 
+            "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K/4th_Page_Create%20AWSdatabasemigration.md",
+            "Order": 4
+          
+        },
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K/5th_Page_Create%20AWSdatabasemigration.md",
+            "Order": 5,
+            "UnlockingRules": [
+                {
+                  "UnlockDependency": "Questions",
+                  "DependentQuestions": [ "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K/Question1.md", "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K/Question2.md" ],
+                  "UnlockCriteria": "AnsweredCorrectly"
+                }
+              ]    
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K/6th_Page_Create%20AWSdatabasemigration.md",
+          "Order": 6,
+          "UnlockingRules": [
+          {
+                  "UnlockDependency": "Questions",
+                  "DependentQuestions": [ "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K/Question1.md", "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K/Question2.md" ],
+                  "UnlockCriteria": "AnsweredCorrectly"
+          }
+        ]
+        }
+          
+    ]
+  }
+]
