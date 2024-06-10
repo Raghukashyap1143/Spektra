@@ -19,7 +19,9 @@ Alternatively, you can also find these values on the CloudLabs Environment tab.
 + ap-southeast-1 (Singapore)
 
 Please answer the following QUESIONS:
-< question source="https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Inlinequestion/Question1.md" />
 
-< question source="https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Inlinequestion/Question2.md" />
+
+<question source="https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Inlinequestion/Question1.md" />
+
+<question source="https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Inlinequestion/Question2.md" />
 
