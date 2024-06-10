@@ -1,0 +1,43 @@
+
+[
+  {
+    "Name": "CloudLabs Demo: Azure environment with Windows machine",
+    "Language": "English",
+    "BaseURL": "https://github.com/arpithaCS5/Interns-Lab-Onboarding/tree/Raghavendra_Prasad_K",
+    "Files": [
+      {
+        "RawFilePath": "https://github.com/arpithaCS5/Interns-Lab-Onboarding/blob/Raghavendra_Prasad_K/AWSdatabasemigration.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://github.com/arpithaCS5/Interns-Lab-Onboarding/blob/Raghavendra_Prasad_K/2st_Page_Create%20AWSdatabasemigration.md",
+        "Order": 2
+      },
+      {
+        "RawFilePath": "https://github.com/arpithaCS5/Interns-Lab-Onboarding/blob/Raghavendra_Prasad_K/3rd_Page_Create%20AWSdatabasemigeration.md",
+        "Order": 3
+      },
+      {
+        "RawFilePath": "https://github.com/arpithaCS5/Interns-Lab-Onboarding/blob/Raghavendra_Prasad_K/4th_page_Create%20AWSdatabasemigration.md",
+        "Order": 4
+      },
+      {
+        "RawFilePath": "https://github.com/arpithaCS5/Interns-Lab-Onboarding/blob/Raghavendra_Prasad_K/5th_page_Create%20AWSdatabasemigration.md",
+        "Order": 5
+      },
+      {
+        "RawFilePath": "https://github.com/arpithaCS5/Interns-Lab-Onboarding/blob/Raghavendra_Prasad_K/6th_page_Create%20AWSdatabasemigration.md",
+        "Order": 6
+      },
+      {
+        "RawFilePath": "https://github.com/arpithaCS5/Interns-Lab-Onboarding/blob/Raghavendra_Prasad_K/7th_page_Create%20AWSdatabasemigeration.md",
+        "Order": 7
+      },
+      {
+        "RawFilePath": "https://github.com/arpithaCS5/Interns-Lab-Onboarding/blob/Raghavendra_Prasad_K/8th_page_Create%20AWSdatabasemigeration.md",
+        "Order": 8
+      }
+
+    ]
+  }
+]
