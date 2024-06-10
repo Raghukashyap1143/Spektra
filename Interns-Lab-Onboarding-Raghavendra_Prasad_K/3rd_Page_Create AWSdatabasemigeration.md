@@ -26,8 +26,7 @@ Follow the below steps to connect to your **MySQL Database** using the **MySQL W
 ```Select * from mydb.employee;```
 ![alt text](https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/AustinCC/main/DMS/images/output.png)
 
-<question source="https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Inlinequestion/Question3.md"
-/>
+<question source="https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Inlinequestion/Question3.md" />
 
 
 
