@@ -52,17 +52,7 @@
         },
         {
           "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K/7th_page_Create%20AWSdatabasemigration.md",
-          "Order": 7,
-          "UnlockingRules": [
-           {
-            "UnlockDependency": "Validations",
-            "UnlockCriteria": "Execution",
-            "DependentValidations": [
-              "2fb39472-3867-45cc-b396-b3167fcc5261"
-              
-            ]
-          }
-        ]
+          "Order": 7
         }
           
     ]
